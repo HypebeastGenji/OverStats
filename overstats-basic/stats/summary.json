@@ -1,0 +1,34 @@
+{"summary": {
+    "username": "Sniff",
+    "avatar": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/04097daa03cfaf51c8fb28dcb4bc2323d4dfaec74298ab929eee7c991916c2be.png",
+    "title": null,
+    "endorsement": {
+        "level": 2,
+        "frame": "https://static.playoverwatch.com/img/pages/career/icons/endorsement/2-8b9f0faa25.svg#icon"
+    },
+    "competitive": {
+        "pc": {
+            "tank": {
+                "division": "bronze",
+                "tier": 2,
+                "role_icon": "https://static.playoverwatch.com/img/pages/career/icons/role/tank-f64702b684.svg#icon",
+                "rank_icon": "https://static.playoverwatch.com/img/pages/career/icons/rank/BronzeTier-2-a5bc9cc7f7.png"
+            },
+            "damage": {
+                "division": "gold",
+                "tier": 3,
+                "role_icon": "https://static.playoverwatch.com/img/pages/career/icons/role/offense-ab1756f419.svg#icon",
+                "rank_icon": "https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"
+            },
+            "support": {
+                "division": "bronze",
+                "tier": 1,
+                "role_icon": "https://static.playoverwatch.com/img/pages/career/icons/role/support-0258e13d85.svg#icon",
+                "rank_icon": "https://static.playoverwatch.com/img/pages/career/icons/rank/BronzeTier-1-5daef87bda.png"
+            }
+        },
+        "console": null
+    },
+    "privacy": "public"
+}
+}

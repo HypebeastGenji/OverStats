@@ -1,0 +1,879 @@
+{"heroes_comparisons": {
+    "time_played": {
+        "label": "Time Played",
+        "values": [
+            {
+                "hero": "genji",
+                "value": 27484
+            },
+            {
+                "hero": "sojourn",
+                "value": 15640
+            },
+            {
+                "hero": "sigma",
+                "value": 15558
+            },
+            {
+                "hero": "kiriko",
+                "value": 14445
+            },
+            {
+                "hero": "widowmaker",
+                "value": 11131
+            },
+            {
+                "hero": "tracer",
+                "value": 3748
+            },
+            {
+                "hero": "junker-queen",
+                "value": 3694
+            },
+            {
+                "hero": "doomfist",
+                "value": 3619
+            },
+            {
+                "hero": "reinhardt",
+                "value": 3041
+            },
+            {
+                "hero": "zarya",
+                "value": 2940
+            },
+            {
+                "hero": "pharah",
+                "value": 2070
+            },
+            {
+                "hero": "cassidy",
+                "value": 1779
+            },
+            {
+                "hero": "ashe",
+                "value": 1744
+            },
+            {
+                "hero": "hanzo",
+                "value": 1711
+            },
+            {
+                "hero": "bastion",
+                "value": 1559
+            },
+            {
+                "hero": "baptiste",
+                "value": 1461
+            },
+            {
+                "hero": "ana",
+                "value": 1096
+            },
+            {
+                "hero": "dva",
+                "value": 893
+            },
+            {
+                "hero": "zenyatta",
+                "value": 848
+            },
+            {
+                "hero": "roadhog",
+                "value": 847
+            },
+            {
+                "hero": "sombra",
+                "value": 680
+            },
+            {
+                "hero": "winston",
+                "value": 629
+            },
+            {
+                "hero": "reaper",
+                "value": 499
+            },
+            {
+                "hero": "orisa",
+                "value": 495
+            },
+            {
+                "hero": "lucio",
+                "value": 490
+            },
+            {
+                "hero": "mercy",
+                "value": 437
+            },
+            {
+                "hero": "junkrat",
+                "value": 263
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 40
+            },
+            {
+                "hero": "soldier-76",
+                "value": 30
+            },
+            {
+                "hero": "echo",
+                "value": 18
+            }
+        ]
+    },
+    "games_won": {
+        "label": "Games Won",
+        "values": [
+            {
+                "hero": "genji",
+                "value": 31
+            },
+            {
+                "hero": "sigma",
+                "value": 18
+            },
+            {
+                "hero": "kiriko",
+                "value": 16
+            },
+            {
+                "hero": "sojourn",
+                "value": 10
+            },
+            {
+                "hero": "widowmaker",
+                "value": 9
+            },
+            {
+                "hero": "reinhardt",
+                "value": 4
+            },
+            {
+                "hero": "tracer",
+                "value": 4
+            },
+            {
+                "hero": "doomfist",
+                "value": 3
+            },
+            {
+                "hero": "bastion",
+                "value": 3
+            },
+            {
+                "hero": "baptiste",
+                "value": 2
+            },
+            {
+                "hero": "zenyatta",
+                "value": 2
+            },
+            {
+                "hero": "junker-queen",
+                "value": 2
+            },
+            {
+                "hero": "hanzo",
+                "value": 1
+            },
+            {
+                "hero": "dva",
+                "value": 1
+            },
+            {
+                "hero": "zarya",
+                "value": 1
+            },
+            {
+                "hero": "ana",
+                "value": 1
+            },
+            {
+                "hero": "ashe",
+                "value": 1
+            },
+            {
+                "hero": "pharah",
+                "value": 1
+            },
+            {
+                "hero": "lucio",
+                "value": 1
+            },
+            {
+                "hero": "cassidy",
+                "value": 0
+            },
+            {
+                "hero": "reaper",
+                "value": 0
+            },
+            {
+                "hero": "mercy",
+                "value": 0
+            },
+            {
+                "hero": "winston",
+                "value": 0
+            },
+            {
+                "hero": "roadhog",
+                "value": 0
+            },
+            {
+                "hero": "junkrat",
+                "value": 0
+            },
+            {
+                "hero": "soldier-76",
+                "value": 0
+            },
+            {
+                "hero": "sombra",
+                "value": 0
+            },
+            {
+                "hero": "orisa",
+                "value": 0
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 0
+            },
+            {
+                "hero": "echo",
+                "value": 0
+            }
+        ]
+    },
+    "weapon_accuracy": {
+        "label": "Weapon Accuracy",
+        "values": [
+            {
+                "hero": "sigma",
+                "value": 50
+            },
+            {
+                "hero": "zarya",
+                "value": 38
+            },
+            {
+                "hero": "pharah",
+                "value": 37
+            },
+            {
+                "hero": "junker-queen",
+                "value": 37
+            },
+            {
+                "hero": "widowmaker",
+                "value": 33
+            },
+            {
+                "hero": "mercy",
+                "value": 32
+            },
+            {
+                "hero": "hanzo",
+                "value": 31
+            },
+            {
+                "hero": "zenyatta",
+                "value": 31
+            },
+            {
+                "hero": "cassidy",
+                "value": 30
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 30
+            },
+            {
+                "hero": "orisa",
+                "value": 30
+            },
+            {
+                "hero": "bastion",
+                "value": 30
+            },
+            {
+                "hero": "baptiste",
+                "value": 29
+            },
+            {
+                "hero": "sojourn",
+                "value": 28
+            },
+            {
+                "hero": "ashe",
+                "value": 26
+            },
+            {
+                "hero": "tracer",
+                "value": 26
+            },
+            {
+                "hero": "kiriko",
+                "value": 25
+            },
+            {
+                "hero": "roadhog",
+                "value": 25
+            },
+            {
+                "hero": "genji",
+                "value": 24
+            },
+            {
+                "hero": "sombra",
+                "value": 24
+            },
+            {
+                "hero": "lucio",
+                "value": 21
+            },
+            {
+                "hero": "winston",
+                "value": 21
+            },
+            {
+                "hero": "junkrat",
+                "value": 20
+            },
+            {
+                "hero": "doomfist",
+                "value": 20
+            },
+            {
+                "hero": "dva",
+                "value": 19
+            },
+            {
+                "hero": "ana",
+                "value": 17
+            },
+            {
+                "hero": "reaper",
+                "value": 15
+            },
+            {
+                "hero": "soldier-76",
+                "value": 14
+            },
+            {
+                "hero": "echo",
+                "value": 4
+            },
+            {
+                "hero": "reinhardt",
+                "value": 0
+            }
+        ]
+    },
+    "win_percentage": null,
+    "eliminations_per_life": {
+        "label": "Eliminations per Life",
+        "values": [
+            {
+                "hero": "zenyatta",
+                "value": 4.86
+            },
+            {
+                "hero": "dva",
+                "value": 4.67
+            },
+            {
+                "hero": "sigma",
+                "value": 4.63
+            },
+            {
+                "hero": "baptiste",
+                "value": 3.62
+            },
+            {
+                "hero": "zarya",
+                "value": 3.54
+            },
+            {
+                "hero": "roadhog",
+                "value": 2.89
+            },
+            {
+                "hero": "lucio",
+                "value": 2.83
+            },
+            {
+                "hero": "bastion",
+                "value": 2.43
+            },
+            {
+                "hero": "genji",
+                "value": 2.36
+            },
+            {
+                "hero": "doomfist",
+                "value": 2.12
+            },
+            {
+                "hero": "junker-queen",
+                "value": 2.0
+            },
+            {
+                "hero": "reinhardt",
+                "value": 1.97
+            },
+            {
+                "hero": "sojourn",
+                "value": 1.92
+            },
+            {
+                "hero": "widowmaker",
+                "value": 1.88
+            },
+            {
+                "hero": "kiriko",
+                "value": 1.79
+            },
+            {
+                "hero": "hanzo",
+                "value": 1.7
+            },
+            {
+                "hero": "ana",
+                "value": 1.7
+            },
+            {
+                "hero": "winston",
+                "value": 1.63
+            },
+            {
+                "hero": "tracer",
+                "value": 1.47
+            },
+            {
+                "hero": "pharah",
+                "value": 1.21
+            },
+            {
+                "hero": "cassidy",
+                "value": 1.19
+            },
+            {
+                "hero": "orisa",
+                "value": 1.13
+            },
+            {
+                "hero": "reaper",
+                "value": 1.11
+            },
+            {
+                "hero": "ashe",
+                "value": 0.93
+            },
+            {
+                "hero": "sombra",
+                "value": 0.64
+            },
+            {
+                "hero": "junkrat",
+                "value": 0.25
+            },
+            {
+                "hero": "mercy",
+                "value": 0
+            },
+            {
+                "hero": "soldier-76",
+                "value": 0
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 0
+            },
+            {
+                "hero": "echo",
+                "value": 0
+            }
+        ]
+    },
+    "critical_hit_accuracy": {
+        "label": "Critical Hit Accuracy",
+        "values": [
+            {
+                "hero": "widowmaker",
+                "value": 17
+            },
+            {
+                "hero": "roadhog",
+                "value": 16
+            },
+            {
+                "hero": "kiriko",
+                "value": 13
+            },
+            {
+                "hero": "reaper",
+                "value": 12
+            },
+            {
+                "hero": "sombra",
+                "value": 11
+            },
+            {
+                "hero": "hanzo",
+                "value": 11
+            },
+            {
+                "hero": "genji",
+                "value": 11
+            },
+            {
+                "hero": "mercy",
+                "value": 10
+            },
+            {
+                "hero": "dva",
+                "value": 10
+            },
+            {
+                "hero": "lucio",
+                "value": 10
+            },
+            {
+                "hero": "zenyatta",
+                "value": 9
+            },
+            {
+                "hero": "ashe",
+                "value": 9
+            },
+            {
+                "hero": "baptiste",
+                "value": 7
+            },
+            {
+                "hero": "tracer",
+                "value": 7
+            },
+            {
+                "hero": "doomfist",
+                "value": 7
+            },
+            {
+                "hero": "cassidy",
+                "value": 7
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 3
+            },
+            {
+                "hero": "bastion",
+                "value": 2
+            },
+            {
+                "hero": "reinhardt",
+                "value": 0
+            },
+            {
+                "hero": "pharah",
+                "value": 0
+            },
+            {
+                "hero": "winston",
+                "value": 0
+            },
+            {
+                "hero": "junkrat",
+                "value": 0
+            },
+            {
+                "hero": "zarya",
+                "value": 0
+            },
+            {
+                "hero": "soldier-76",
+                "value": 0
+            },
+            {
+                "hero": "ana",
+                "value": 0
+            },
+            {
+                "hero": "orisa",
+                "value": 0
+            },
+            {
+                "hero": "sojourn",
+                "value": 0
+            },
+            {
+                "hero": "echo",
+                "value": 0
+            },
+            {
+                "hero": "junker-queen",
+                "value": 0
+            },
+            {
+                "hero": "sigma",
+                "value": 0
+            }
+        ]
+    },
+    "multikill_best": {
+        "label": "Multikill - Best",
+        "values": [
+            {
+                "hero": "pharah",
+                "value": 5
+            },
+            {
+                "hero": "genji",
+                "value": 3
+            },
+            {
+                "hero": "dva",
+                "value": 3
+            },
+            {
+                "hero": "doomfist",
+                "value": 3
+            },
+            {
+                "hero": "orisa",
+                "value": 3
+            },
+            {
+                "hero": "sojourn",
+                "value": 3
+            },
+            {
+                "hero": "reaper",
+                "value": 0
+            },
+            {
+                "hero": "tracer",
+                "value": 0
+            },
+            {
+                "hero": "mercy",
+                "value": 0
+            },
+            {
+                "hero": "hanzo",
+                "value": 0
+            },
+            {
+                "hero": "reinhardt",
+                "value": 0
+            },
+            {
+                "hero": "winston",
+                "value": 0
+            },
+            {
+                "hero": "widowmaker",
+                "value": 0
+            },
+            {
+                "hero": "bastion",
+                "value": 0
+            },
+            {
+                "hero": "zenyatta",
+                "value": 0
+            },
+            {
+                "hero": "roadhog",
+                "value": 0
+            },
+            {
+                "hero": "cassidy",
+                "value": 0
+            },
+            {
+                "hero": "junkrat",
+                "value": 0
+            },
+            {
+                "hero": "zarya",
+                "value": 0
+            },
+            {
+                "hero": "soldier-76",
+                "value": 0
+            },
+            {
+                "hero": "lucio",
+                "value": 0
+            },
+            {
+                "hero": "sombra",
+                "value": 0
+            },
+            {
+                "hero": "ana",
+                "value": 0
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 0
+            },
+            {
+                "hero": "ashe",
+                "value": 0
+            },
+            {
+                "hero": "echo",
+                "value": 0
+            },
+            {
+                "hero": "baptiste",
+                "value": 0
+            },
+            {
+                "hero": "kiriko",
+                "value": 0
+            },
+            {
+                "hero": "junker-queen",
+                "value": 0
+            },
+            {
+                "hero": "sigma",
+                "value": 0
+            }
+        ]
+    },
+    "objective_kills": {
+        "label": "Objective Kills",
+        "values": [
+            {
+                "hero": "genji",
+                "value": 253
+            },
+            {
+                "hero": "sigma",
+                "value": 220
+            },
+            {
+                "hero": "sojourn",
+                "value": 180
+            },
+            {
+                "hero": "kiriko",
+                "value": 94
+            },
+            {
+                "hero": "widowmaker",
+                "value": 49
+            },
+            {
+                "hero": "zarya",
+                "value": 43
+            },
+            {
+                "hero": "doomfist",
+                "value": 40
+            },
+            {
+                "hero": "junker-queen",
+                "value": 36
+            },
+            {
+                "hero": "reinhardt",
+                "value": 28
+            },
+            {
+                "hero": "tracer",
+                "value": 23
+            },
+            {
+                "hero": "roadhog",
+                "value": 18
+            },
+            {
+                "hero": "baptiste",
+                "value": 18
+            },
+            {
+                "hero": "bastion",
+                "value": 17
+            },
+            {
+                "hero": "zenyatta",
+                "value": 17
+            },
+            {
+                "hero": "hanzo",
+                "value": 15
+            },
+            {
+                "hero": "pharah",
+                "value": 13
+            },
+            {
+                "hero": "cassidy",
+                "value": 10
+            },
+            {
+                "hero": "ashe",
+                "value": 9
+            },
+            {
+                "hero": "ana",
+                "value": 8
+            },
+            {
+                "hero": "orisa",
+                "value": 7
+            },
+            {
+                "hero": "reaper",
+                "value": 6
+            },
+            {
+                "hero": "lucio",
+                "value": 6
+            },
+            {
+                "hero": "winston",
+                "value": 5
+            },
+            {
+                "hero": "dva",
+                "value": 5
+            },
+            {
+                "hero": "sombra",
+                "value": 4
+            },
+            {
+                "hero": "mercy",
+                "value": 0
+            },
+            {
+                "hero": "junkrat",
+                "value": 0
+            },
+            {
+                "hero": "soldier-76",
+                "value": 0
+            },
+            {
+                "hero": "wrecking-ball",
+                "value": 0
+            },
+            {
+                "hero": "echo",
+                "value": 0
+            }
+        ]
+    }
+}
+}

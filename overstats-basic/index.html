@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="ow-styles.css" />
+    <!-- <script type="module" src="https://cdn.plot.ly/plotly-2.16.1.min.js"></script> -->
+    <title>OverStats</title>
+</head>
+
+<body>
+    <script src="main.js"></script>
+
+    <div>
+        <div class="header">
+            <a href="/index.html"><h1 class="logo-title">OverStats</h1></a>
+        </div>
+
+        <div>
+            <div id="input-box" class="input-box">
+                <br />
+                <p>Enter Username</p>
+                <input id="username" type="text" placeholder="e.g Sniff-3391" />
+                
+                <br />
+                <p>Stat options: </p>
+                <div class="row options">
+                    <p>check</p>
+                    <p>check</p>
+                    <p>check</p>
+                    <p>check</p>
+                </div>
+                <div class="row options">
+                    <p>check</p>
+                    <p>check</p>
+                    <p>check</p>
+                    <p>check</p>
+                </div>
+                
+                <button class="search-btn" onclick="search()">Search</button>
+
+
+            </div>
+
+            <div id="main" class="output-box">
+                <div>
+                    <h1 class="logo-title">Leaderboards</h1>
+                    <div class="region-selector">
+                        <button onclick="getLeaderboards('america')">America</button>
+                        <button onclick="getLeaderboards('asia')">Asia</button>
+                        <button onclick="getLeaderboards('europe')">Europe</button>
+                    </div>
+                    <div class="leaderboards row">
+                        <div id="tank-leaderboard" class="leaderboard">
+                            <h2 class="role-title">Tank</h2>
+                            <div class="leader-list">
+                                <div class="leaders row">
+                                    <p>1</p>
+                                    <img class="rank-img" src="https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"/>
+                                    <p>Super</p>
+                                    <p>400 Games</p>
+                                    <div class="top-heroes row">
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                    </div>
+                                </div>
+                                
+
+                            </div>
+                            <!-- <ol class="leader-list">
+                                <li><div><p>1</p><p>Super</p></div></li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                                <li>Super</li>
+                            </ol> -->
+
+                        </div>
+                        <div id="damage-leaderboard" class="leaderboard">
+                            <h2 class="role-title">Damage</h2>
+                            <div class="leader-list">
+                                <div class="leaders row">
+                                    <p>1</p>
+                                    <img class="rank-img" src="https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"/>
+                                    <p>Super</p>
+                                    <p>400 Games</p>
+                                    <div class="top-heroes row">
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                    </div>
+                                </div>
+                                
+
+                            </div>
+
+                        </div>
+                        <div id="support-leaderboard" class="leaderboard">
+                            <h2 class="role-title">Support</h2>
+                            <div class="leader-list">
+                                <div class="leaders row">
+                                    <p>1</p>
+                                    <img class="rank-img" src="https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"/>
+                                    <p>Super</p>
+                                    <p>400 Games</p>
+                                    <div class="top-heroes row">
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                        <img class="top-hero"/>
+                                    </div>
+                                </div>
+                                
+
+                            </div>
+
+                        </div>
+                        
+                    </div>
+                </div>
+
+                
+
+
+                <p id="test"></p>
+                
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+
+
+    </div>
+</body>
+
+</html>
