@@ -48,8 +48,6 @@ async function getUserStats(user) {
             getMatchStats() // add 'use' param when searching for a users stats
             
         }) 
-
-    
 }
 
 async function getMatchStats() {
